@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Hamza Saleem Barg**, an aspiring **Electrical Engineer** specializing in **Embedded Systems & Digital Design** at the **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)** – Class of 2027. I’m passionate about building hardware solutions that merge electronics and programming to solve real-world challenges.
+I’m **Hamza Barg**, an aspiring **Electrical Engineer** specializing in **Embedded Systems & Digital Design** at the **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)** – Class of 2027. I’m passionate about building hardware solutions that merge electronics and programming to solve real-world challenges.
 
 ---
 
