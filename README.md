@@ -18,20 +18,20 @@ As an aspiring **Electrical Engineer** specializing in **Embedded Systems & Digi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" alt="Assembly" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Microchip_Technology_logo.svg/1200px-Microchip_Technology_logo.svg.png" alt="MPLAB" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Proteus_Logo.png/768px-Proteus_Logo.png" alt="Proteus" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/assembly.png" alt="Assembly" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Microchip_Technology_logo.svg" alt="MPLAB" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/93/36/png-transparent-proteus-icon.png" alt="Proteus" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/LTspice.png" alt="LTSpice" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/ModelSim_logo.png" alt="ModelSim" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/f0/ModelSim_Logo.png" alt="ModelSim" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📫 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-barg-4385252a5)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzabarg)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzabarg11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-barg-4385252a5)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzabarg)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzabarg11@gmail.com)  
 
 ---
 
